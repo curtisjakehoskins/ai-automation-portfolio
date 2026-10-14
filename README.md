@@ -24,8 +24,14 @@ Welcome to my portfolio. I design, test, and deploy end-to-end automated workflo
 * **Solution:** Automated pipeline that ingests webhook payloads, validates customer data via API, extracts structured intent/urgency via LLM, and routes directly to the team.
 * **Status:** Complete
 
+* ### [Project 2: Automated Knowledge Extraction & Multi-Format Summarizer](./project-2-doc-summarizer/)
+* **Stack:** Make.com, OpenAI / Google Gemini API, Postman
+* **Problem:** Critical operational metrics and tasks get buried in long-form meeting notes and incident reports.
+* **Solution:** Automated pipeline that executes structured multi-attribute extraction via LLM, logs metrics to a database, dispatches executive summaries, and implements failover error-handling directives.
+* **Status:** Complete
+
 ---
 
-## 📬 Contact
+## 📬 Contact curtisjake384@gmail.com
 * **Location:** Missoula, MT
 * **GitHub:** [Curtis Hoskins](https://github.com/)
