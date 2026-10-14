@@ -19,7 +19,7 @@ Welcome to my portfolio. I design, test, and deploy end-to-end automated workflo
 ## 📂 Featured Projects
 
 ### [Project 1: Multi-Agent Support & Lead Triage Engine](./project-1-lead-triage/)
-* **Stack:** Make.com, Postman, Google AI API
+* **Stack:** Make.com, Google AI API, Postman
 * **Problem:** Inbound sales and support leads require hours of manual sorting, data verification, and CRM routing.
 * **Solution:** Automated pipeline that ingests webhook payloads, validates customer data via API, extracts structured intent/urgency via LLM, and routes directly to the team.
 * **Status:** Complete
