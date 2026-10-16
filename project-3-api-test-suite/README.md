@@ -11,3 +11,5 @@ A comprehensive Postman automated testing suite that validates endpoint status c
 * [ ] Postman Test Collection (`.json`)
 * [ ] Postman Environment Configuration (`.json`)
 * [ ] Test Execution Report & Case Study
+
+Status: In Progress
