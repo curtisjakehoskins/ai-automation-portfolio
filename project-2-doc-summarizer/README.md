@@ -44,4 +44,6 @@ This automation ingests unstructured text payloads, extracts structured operatio
 
   ---
 
-  ** 
+  ## Blueprints And Architecture Diagrams
+  *[Make.com Scenario Blueprint](./Multi-format-summarier-blueprint-diagram)
+  *[Postman Collection](./Multi-format-summarier-postman-architecture-diagram)
