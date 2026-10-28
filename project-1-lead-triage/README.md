@@ -51,9 +51,10 @@ This automation creates a zero-latency pipeline that ingests raw inbound payload
 
 ---
 
-## Blueprints & Architecture diagrams
+## Blueprints, Architecture diagrams & demo's
 * [Make.com Scenario Blueprint diagram](./Lead-triage-blueprint.png)
 * [Postman Collection diagram](./Lead-triage-postman-architecture-diagram.png)
+* [Automation and API functional demo](./Project-1-demo-trimmed.gif)
 
 ---
 
